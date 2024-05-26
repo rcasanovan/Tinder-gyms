@@ -1,5 +1,3 @@
-# iOS Coding Challenge
-
 ## Here we go!
 
 This demo implements a similar version of a popular dating app to list a series of gyms with activities.

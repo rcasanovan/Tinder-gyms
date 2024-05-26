@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD1831F1-A58B-4BE3-81B2-C4D704F0EFA4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7098B1C3-38EF-4A58-A68B-282FC9565443"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Urban SportsTests/LoadActivities/LoadActivitiesFeatureTests/LoadActivitiesTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "testOnAppearDidSwipeLike()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65B3DE47-A24E-4380-8747-8F6B76048EE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Urban Sports/Features/LoadActivites Feature/Card View/CardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "65B3DE47-A24E-4380-8747-8F6B76048EE3 - 7e82c47650c240cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;&gt;, SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Urban_Sports.TagView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;)&gt;&gt;, Swift.Optional&lt;Urban_Sports.DateView&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;&gt;, SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Urban_Sports.TagView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;)&gt;&gt;, Swift.Optional&lt;Urban_Sports.DateView&gt;)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.clipped(antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.LinearGradient, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.opacity(Swift.Double) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.opacity(Swift.Double) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in Urban_Sports.CardView.body.getter : some"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/Card%20View/CardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "3076">
+               </Location>
+               <Location
+                  uuid = "65B3DE47-A24E-4380-8747-8F6B76048EE3 - 7e82c47650c240cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;&gt;, SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Urban_Sports.TagView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;)&gt;&gt;, Swift.Optional&lt;Urban_Sports.DateView&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;&gt;, SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Urban_Sports.TagView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;)&gt;&gt;, Swift.Optional&lt;Urban_Sports.DateView&gt;)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.clipped(antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.LinearGradient, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.opacity(Swift.Double) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.opacity(Swift.Double) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in Urban_Sports.CardView.body.getter : some"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/Card%20View/CardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "3224">
+               </Location>
+               <Location
+                  uuid = "65B3DE47-A24E-4380-8747-8F6B76048EE3 - 7e82c47650c240cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;&gt;, SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Urban_Sports.TagView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;)&gt;&gt;, Swift.Optional&lt;Urban_Sports.DateView&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;&gt;, SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Urban_Sports.TagView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;)&gt;&gt;, Swift.Optional&lt;Urban_Sports.DateView&gt;)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.clipped(antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.LinearGradient, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.opacity(Swift.Double) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.opacity(Swift.Double) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in Urban_Sports.CardView.body.getter : some"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/Card%20View/CardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "3376">
+               </Location>
+               <Location
+                  uuid = "65B3DE47-A24E-4380-8747-8F6B76048EE3 - 7e82c47650c240cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;&gt;, SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Urban_Sports.TagView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;)&gt;&gt;, Swift.Optional&lt;Urban_Sports.DateView&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;&gt;, SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;Urban_Sports.TagView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;)&gt;&gt;, Swift.Optional&lt;Urban_Sports.DateView&gt;)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.clipped(antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.LinearGradient, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.opacity(Swift.Double) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.opacity(Swift.Double) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in Urban_Sports.CardView.body.getter : some"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/Card%20View/CardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "3556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D5A06F5-BB94-4EC9-91C2-21923515C899"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Urban Sports/Features/LoadActivites Feature/Card View/CardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A272841-161B-4880-9B9B-739D097C1457"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Urban Sports/Features/LoadActivites Feature/Date View/DateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "date"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48517F8A-18D6-438A-9005-58D1AFA06515"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Urban Sports/Features/LoadActivites Feature/Date View/DateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "time"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A424FF7-8139-489C-AA0C-F31C5BD34AE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Urban Sports/Features/LoadActivites Feature/LoadActivites.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "loadEffect()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A424FF7-8139-489C-AA0C-F31C5BD34AE7 - 3253de52ec1e5247"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "0A424FF7-8139-489C-AA0C-F31C5BD34AE7 - 3c267571c3e6413"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Urban_Sports.GymAPIDataModel) -&gt; Urban_Sports.LoadActivites.Gym in closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2871DA7A-A2AC-471B-800F-E1EE32AB1DF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Urban Sports/Features/LoadActivites Feature/LoadActivites.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "loadEffect()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2871DA7A-A2AC-471B-800F-E1EE32AB1DF3 - dc44467761c50f92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "2871DA7A-A2AC-471B-800F-E1EE32AB1DF3 - bcd06fe4368fd6a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "2871DA7A-A2AC-471B-800F-E1EE32AB1DF3 - 3253de52ec1e53ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08686917-9218-4907-BDF1-E57B6E368832"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Urban Sports/Features/LoadActivites Feature/LoadActivites.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "loadEffect()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08686917-9218-4907-BDF1-E57B6E368832 - 3253de52ec1e52e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "08686917-9218-4907-BDF1-E57B6E368832 - 43656a5c290b30e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "08686917-9218-4907-BDF1-E57B6E368832 - 906f364e767797a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "08686917-9218-4907-BDF1-E57B6E368832 - 906f364e767796e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CB6B656-E784-4126-A7B0-C730E10005D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Urban Sports/Features/LoadActivites Feature/LoadActivites.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE07F6E8-9348-41E4-8F57-4E29B46C8589"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Urban Sports/Features/LoadActivites Feature/LoadActivites.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "loadEffect()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE07F6E8-9348-41E4-8F57-4E29B46C8589 - 3253de52ec1e5389"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "FE07F6E8-9348-41E4-8F57-4E29B46C8589 - d43314d541a70839"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Urban_Sports.GymAPIDataModel) -&gt; Swift.Bool in closure #1 @Sendable (ComposableArchitecture.Send&lt;Urban_Sports.LoadActivites.Action&gt;) async -&gt; () in Urban_Sports.LoadActivites.loadEffect(filter: Swift.Optional&lt;Swift.String&gt;) -&gt; ComposableArchitecture.Effect&lt;Urban_Sports.LoadActivites.Action&gt;"
+                  moduleName = "Urban Sports"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ricardo.casanova/Development/Personal/Urban%20Sports/ios-coding-challenge-rcasanovan/Urban%20Sports/Urban%20Sports/Features/LoadActivites%20Feature/LoadActivites.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
